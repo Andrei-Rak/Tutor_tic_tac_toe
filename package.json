@@ -1,0 +1,23 @@
+{
+  "name": "tutor_tic_tac_toe",
+  "version": "1.0.0",
+  "description": "Prog",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrei-Rak/Tutor_tic_tac_toe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrei-Rak/Tutor_tic_tac_toe/issues"
+  },
+  "homepage": "https://github.com/Andrei-Rak/Tutor_tic_tac_toe#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
